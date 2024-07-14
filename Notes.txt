@@ -1,0 +1,57 @@
+https://github.com/vercel/next.js/issues/49087
+https://www.imagin.studio/car-image-api
+
+1) Next 13. a react framework so powerful it became the new standard for
+creating react applications and recently its interest peaked which means
+that now is the perfect time to build a state-of-the-art next 13 
+application to Showcase your abilities.
+
+2) In this course you will develop a modern car showcase platform that
+leverages all of the latest and greatest of what next 13 has to offer
+
+3)A minimalist hero section will be a Gateway into our complex search and 
+filtering capabilities that will leverage nextjs's server-side rendering
+features establishing application routes implementing advanced search and
+filtering capabilities 
+
+4) What is important here? :
+1.handling and displaying data in chunks optimizing applications
+2.metadata and SEO creating custom filter combobox 
+3.model elements maintaining a well-organized file and folder structure
+4.embracing the principles of writing clean code 
+5.much more the entire application is fully mobile responsive
+6.this app is perfect for all car enthusiasts and due to its complex functionalities and shows newest functions of NextJS
+
+5)we'll be transitioning from client-side rendering to server-side
+rendering unlocking the next jss full potential after we develop the 
+application I'll even teach you how to deploy to the Internet
+
+6) Tailwind CSS is a really simple utility first see SS framework packed with utility classes but behind the scenes it is nothing more than CSS so if you're wondering what a specific class means simply go to quick search and search for it right here you're gonna immediately get the answer of how to use that specific class
+
+7) you'll learn the most important Technologies needed to make any website next yes Tailwind headless UI typescript and Concepts like mobile responsiveness and API management we're going to start simple and move to more complex Concepts
+
+8) This is the first step of installation:
+1. npx create-next-app@latest ./
+2. npm install @headlessui/react //if only needed
+3. And complete small questionaire:first of all we have to say would we like to use typescript and in this case we're going to press yes then it's going to ask us if we want to use eslint I'm going to say no then Tailwind of course we're going to use Tailwind when it comes to using the source directory we're going to say no and finally we are going to use the app router would you like to customize the default import Alias we're gonna say no like that
+4. npm run dev
+5. while writing in file remember rafce or rfc words to always to create snippet
+
+9)app folder which is going to be our Central hub for working with our routes and pages and the only other thing we have is the public for our icons and assets
+
+10)Tailwind CSS is a really simple utility first CSS framework packed with utility classes but behind the scenes it is nothing more than CSS so if you're wondering what a specific class means simply go to quick search and search for it right here you're gonna immediately get the answer of how to use that specific class also our es7 extension will be helpful
+
+11)Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+
+12) Here we usually make components an dthen export them and then they get imported in main file which is page.tsx here
+and indexing of all those pages is done in file index.ts here lookout this file as gateway between main tsx file and all the other components pages
+
+
+Next.js are server side rendered they're called server components but this button is just going to be a client-side component which is usually the case when you have some browser actions such as clicks or using hooks so if you watch the next JS crash course that we recently posted then you know what we need to do if you haven't watched it already even though you've Dove deep into this video right now I would recommend to posit bookmark it
+somewhere else and go watch the next Jazz crash course because it's going to make the watching of this video so much more educational if you have the foundations laid out with that said what we need to do is use the use client directive to turn this component into a client-side component and that's going to fix the error for us
+
+look after hooks prps functions-handling like scroll,click
+
+we will use headlessui here to form searchbox 
+
